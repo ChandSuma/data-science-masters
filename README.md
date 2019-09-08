@@ -398,6 +398,7 @@ Goals:
 * https://www.coursera.org/specializations/networking-basics
 * https://www.coursera.org/learn/neurohacking
 * https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
+* Raft/Paxos CAP Theorem / Redundancy 
 
 #### Resources
 * https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu&disable_polymer=true
